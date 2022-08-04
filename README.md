@@ -1,0 +1,1 @@
+This project is a demo version of a Natural Language Processing application for extraction and classification of medical accident related information from medical journals such as falls, wrong prescription, wrong medication etc. in the hospitals. The app is written in Python/ St´reamlit and fully deployed at Google Cloud Platform: https://nlp-nrativ.ew.r.appspot.com/ 
